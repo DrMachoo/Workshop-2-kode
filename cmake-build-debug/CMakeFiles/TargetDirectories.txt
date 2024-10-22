@@ -1,0 +1,3 @@
+/mnt/c/Users/david/CLionProjects/Workshot 2 - SearchCompare/cmake-build-debug/CMakeFiles/SearchCompare.dir
+/mnt/c/Users/david/CLionProjects/Workshot 2 - SearchCompare/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/david/CLionProjects/Workshot 2 - SearchCompare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
